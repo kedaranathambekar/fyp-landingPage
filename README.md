@@ -1,12 +1,12 @@
-# Getting Started with Create React App
+# Face Attendances Management Using Face Recognitions
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my landing page for my project which give detailed information
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+### Website link
+
+  [website](https://kedaranathambekar.github.io/fyp-landingPage/)
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
